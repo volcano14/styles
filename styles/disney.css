@@ -53,14 +53,14 @@
     transition-duration: 300ms;
     visibility: hidden;
   }
-  .card-disney:hover .item-border {
+  .card-streaming:hover .item-border {
     box-shadow: rgba(0, 0, 0, 0.8) 0px 40px 58px -16px,
       rgba(0, 0, 0, 0.72) 0px 30px 22px -10px;
     transform: scale(1.05);
     border: 4px solid rgba(249, 249, 249, 0.8);
   }
   
-  .card-disney:hover .item-image.hover-image {
+  .card-streaming:hover .item-image.hover-image {
     position: absolute;
     top: 0;
     z-index: -1;
